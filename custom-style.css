@@ -1,0 +1,13 @@
+/*  Jim O'Neill's Portfolio
+    Theme updates based on Folio by Matt Downey
+    https://mattdowney.gumroad.com/l/folio-template
+*/
+
+/* 
+  Typography 
+------------------------------*/
+
+/* Improve contrast of text */
+p, a, p a, ul, ul li {
+  color: rgba(247, 246, 251, 0.75) !important;
+}
