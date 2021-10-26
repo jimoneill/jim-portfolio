@@ -59,6 +59,10 @@ h3 {
   color: rgb(243, 97, 99) !important; /* originally rgb(226, 85, 161); changing to theme salmon color */ 
 }
 
+.notion-semantic-string .highlighted-color.color-blue {
+  color: rgb(91, 173, 224) !important; /* originally rgb(82, 156, 202); brightening for better contrast */ 
+}
+
 
 /* 
   Notion Layout Objects 
