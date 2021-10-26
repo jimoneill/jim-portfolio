@@ -22,6 +22,19 @@ p, a, p a, ul, ul li {
   color: rgba(247, 246, 251, 0.75) !important;
 }
 
+/* Reduce white space above H1 */
+h1 {
+  margin-top: 3.5rem !important;
+  margin-bottom: 0.5rem !important;
+  font-size: 3rem !important; 
+}
+  @media (max-width: 767.98px) {
+    h1 {
+      margin-top: 2.25rem !important;
+      font-size: 2.25rem !important; 
+    }
+  }
+
 /* Uncapitalize H3 */
 h3 {
   text-transform: none !important;
