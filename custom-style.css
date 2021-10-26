@@ -19,7 +19,7 @@
 
 /* Improve contrast of text */
 p, a, p a, ul, ul li {
-  color: rgba(247, 246, 251, 0.75) !important;
+  color: rgba(247, 246, 251, 0.85) !important;
 }
 
 /* Reduce white space above H1 */
