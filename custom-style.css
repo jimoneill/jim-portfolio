@@ -70,6 +70,15 @@ h3.notion-heading a {
   color: rgb(91, 173, 224) !important; /* originally rgb(82, 156, 202); brightening for better contrast */ 
 }
 
+/* Make links respect the color defined on a parent */
+.color-pink .notion-semantic-string .notion-link {
+  color: rgb(243, 97, 99) !important;
+}
+
+.color-blue .notion-semantic-string .notion-link {
+  color: rgb(91, 173, 224) !important;
+}
+
 
 /* 
   Notion Layout Objects 
