@@ -35,11 +35,12 @@ h1 {
     }
   }
 
-/* Uncapitalize H3 */
+/* Uncapitalize H3, make it more prominent */
 h3 {
   text-transform: none !important;
   letter-spacing: 0 !important;
-  font-size: 1.125rem !important;
+  font-size: 1.25rem !important;
+  margin-bottom: 0.25rem !important;
 }
 
 /* Make quotes more interesting */
