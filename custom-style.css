@@ -89,4 +89,12 @@ h3.notion-heading a {
   display:  block !important;
 }
 
+/* Gallery views */
+.super-content .notion-collection-gallery.large {
+  margin-top: 2rem !important;          /* was 3rem */
+  margin-bottom: 2rem !important;       /* was 3rem */
+  padding-bottom: 3.5rem !important;    /* was 6.5rem */
+  border-bottom: none !important;       /* was 1px solid rgba(247, 246, 251, 0.1) - use dividers instead */
+}
+
 
